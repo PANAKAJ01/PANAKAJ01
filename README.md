@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Pankaj  
 
-💡 **Data Analyst | Python | SQL | Excel | Turning Raw Data into Actionable Insights**  
+💡 **Data Analyst | Python | SQL | Excel | Power BI | R Programming | Turning Raw Data into Actionable Insights**  
 
 ---
 
 ## 🔥 About Me  
 - 🎓 BCA Student passionate about **Data Analytics & AI**  
-- 📊 Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel**  
+- 📊 Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel, R**  
 - 🧩 Strong problem-solving mindset & analytical thinking  
 - 📈 Interested in **Data Visualization, Machine Learning, and Automation**  
 - ⚡ Typing Speed: 40+ WPM  
@@ -28,6 +28,7 @@
 ### 🔹 Programming & Data  
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
